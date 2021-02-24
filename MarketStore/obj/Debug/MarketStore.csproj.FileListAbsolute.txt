@@ -1,0 +1,7 @@
+E:\Programming\SideWork\C#\MarketStore\MarketStore\bin\Debug\MarketStore.exe.config
+E:\Programming\SideWork\C#\MarketStore\MarketStore\bin\Debug\MarketStore.exe
+E:\Programming\SideWork\C#\MarketStore\MarketStore\bin\Debug\MarketStore.pdb
+E:\Programming\SideWork\C#\MarketStore\MarketStore\obj\Debug\MarketStore.csprojAssemblyReference.cache
+E:\Programming\SideWork\C#\MarketStore\MarketStore\obj\Debug\MarketStore.csproj.CoreCompileInputs.cache
+E:\Programming\SideWork\C#\MarketStore\MarketStore\obj\Debug\MarketStore.exe
+E:\Programming\SideWork\C#\MarketStore\MarketStore\obj\Debug\MarketStore.pdb
